@@ -1,0 +1,600 @@
+current batch size: 128
+epoch 1 done
+  test loss: 1.79
+  accuracy: 0.3602
+current batch size: 132
+epoch 2 done
+  test loss: 1.47
+  accuracy: 0.4828
+current batch size: 137
+epoch 3 done
+  test loss: 1.38
+  accuracy: 0.5113
+current batch size: 142
+epoch 4 done
+  test loss: 1.26
+  accuracy: 0.5591
+current batch size: 148
+epoch 5 done
+  test loss: 1.18
+  accuracy: 0.5939
+current batch size: 153
+epoch 6 done
+  test loss: 1.16
+  accuracy: 0.6007
+current batch size: 159
+epoch 7 done
+  test loss: 1.14
+  accuracy: 0.6045
+current batch size: 165
+epoch 8 done
+  test loss: 1.07
+  accuracy: 0.6354
+current batch size: 171
+epoch 9 done
+  test loss: 1.07
+  accuracy: 0.6387
+current batch size: 177
+epoch 10 done
+  test loss: 1.12
+  accuracy: 0.6277
+current batch size: 184
+epoch 11 done
+  test loss: 1.09
+  accuracy: 0.6460
+current batch size: 190
+epoch 12 done
+  test loss: 1.12
+  accuracy: 0.6415
+current batch size: 197
+epoch 13 done
+  test loss: 1.12
+  accuracy: 0.6436
+current batch size: 205
+epoch 14 done
+  test loss: 1.22
+  accuracy: 0.6389
+current batch size: 212
+epoch 15 done
+  test loss: 1.32
+  accuracy: 0.6319
+current batch size: 220
+epoch 16 done
+  test loss: 1.30
+  accuracy: 0.6444
+current batch size: 228
+epoch 17 done
+  test loss: 1.42
+  accuracy: 0.6300
+current batch size: 237
+epoch 18 done
+  test loss: 1.53
+  accuracy: 0.6343
+current batch size: 246
+epoch 19 done
+  test loss: 1.61
+  accuracy: 0.6381
+current batch size: 255
+epoch 20 done
+  test loss: 1.67
+  accuracy: 0.6381
+current batch size: 264
+epoch 21 done
+  test loss: 1.75
+  accuracy: 0.6416
+current batch size: 274
+epoch 22 done
+  test loss: 1.94
+  accuracy: 0.6355
+current batch size: 284
+epoch 23 done
+  test loss: 1.98
+  accuracy: 0.6437
+current batch size: 295
+epoch 24 done
+  test loss: 2.13
+  accuracy: 0.6375
+current batch size: 306
+epoch 25 done
+  test loss: 2.26
+  accuracy: 0.6437
+current batch size: 317
+epoch 26 done
+  test loss: 2.37
+  accuracy: 0.6472
+current batch size: 329
+epoch 27 done
+  test loss: 2.42
+  accuracy: 0.6464
+current batch size: 341
+epoch 28 done
+  test loss: 2.50
+  accuracy: 0.6494
+current batch size: 354
+epoch 29 done
+  test loss: 2.57
+  accuracy: 0.6493
+current batch size: 367
+epoch 30 done
+  test loss: 2.62
+  accuracy: 0.6486
+current batch size: 380
+epoch 31 done
+  test loss: 2.66
+  accuracy: 0.6484
+current batch size: 394
+epoch 32 done
+  test loss: 2.69
+  accuracy: 0.6494
+current batch size: 409
+epoch 33 done
+  test loss: 2.73
+  accuracy: 0.6475
+current batch size: 424
+epoch 34 done
+  test loss: 2.75
+  accuracy: 0.6492
+current batch size: 440
+epoch 35 done
+  test loss: 2.79
+  accuracy: 0.6479
+current batch size: 456
+epoch 36 done
+  test loss: 2.81
+  accuracy: 0.6475
+current batch size: 473
+epoch 37 done
+  test loss: 2.83
+  accuracy: 0.6479
+current batch size: 490
+epoch 38 done
+  test loss: 2.85
+  accuracy: 0.6473
+current batch size: 509
+epoch 39 done
+  test loss: 2.87
+  accuracy: 0.6475
+current batch size: 527
+epoch 40 done
+  test loss: 2.89
+  accuracy: 0.6478
+current batch size: 547
+epoch 41 done
+  test loss: 2.91
+  accuracy: 0.6485
+current batch size: 567
+epoch 42 done
+  test loss: 2.92
+  accuracy: 0.6478
+current batch size: 588
+epoch 43 done
+  test loss: 2.94
+  accuracy: 0.6480
+current batch size: 610
+epoch 44 done
+  test loss: 2.95
+  accuracy: 0.6479
+current batch size: 633
+epoch 45 done
+  test loss: 2.96
+  accuracy: 0.6478
+current batch size: 656
+epoch 46 done
+  test loss: 2.98
+  accuracy: 0.6477
+current batch size: 680
+epoch 47 done
+  test loss: 2.99
+  accuracy: 0.6480
+current batch size: 706
+epoch 48 done
+  test loss: 3.00
+  accuracy: 0.6475
+current batch size: 732
+epoch 49 done
+  test loss: 3.01
+  accuracy: 0.6474
+current batch size: 759
+epoch 50 done
+  test loss: 3.01
+  accuracy: 0.6480
+current batch size: 787
+epoch 51 done
+  test loss: 3.02
+  accuracy: 0.6473
+current batch size: 816
+epoch 52 done
+  test loss: 3.03
+  accuracy: 0.6482
+current batch size: 846
+epoch 53 done
+  test loss: 3.04
+  accuracy: 0.6476
+current batch size: 877
+epoch 54 done
+  test loss: 3.05
+  accuracy: 0.6477
+current batch size: 910
+epoch 55 done
+  test loss: 3.06
+  accuracy: 0.6474
+current batch size: 944
+epoch 56 done
+  test loss: 3.06
+  accuracy: 0.6483
+current batch size: 979
+epoch 57 done
+  test loss: 3.07
+  accuracy: 0.6477
+current batch size: 1015
+epoch 58 done
+  test loss: 3.08
+  accuracy: 0.6478
+current batch size: 1052
+epoch 59 done
+  test loss: 3.08
+  accuracy: 0.6473
+current batch size: 1091
+epoch 60 done
+  test loss: 3.09
+  accuracy: 0.6481
+current batch size: 1132
+epoch 61 done
+  test loss: 3.09
+  accuracy: 0.6478
+current batch size: 1174
+epoch 62 done
+  test loss: 3.10
+  accuracy: 0.6480
+current batch size: 1217
+epoch 63 done
+  test loss: 3.10
+  accuracy: 0.6481
+current batch size: 1262
+epoch 64 done
+  test loss: 3.11
+  accuracy: 0.6478
+current batch size: 1309
+epoch 65 done
+  test loss: 3.11
+  accuracy: 0.6479
+current batch size: 1357
+epoch 66 done
+  test loss: 3.12
+  accuracy: 0.6476
+current batch size: 1408
+epoch 67 done
+  test loss: 3.12
+  accuracy: 0.6481
+current batch size: 1460
+epoch 68 done
+  test loss: 3.12
+  accuracy: 0.6482
+current batch size: 1514
+epoch 69 done
+  test loss: 3.13
+  accuracy: 0.6479
+current batch size: 1570
+epoch 70 done
+  test loss: 3.13
+  accuracy: 0.6476
+current batch size: 1628
+epoch 71 done
+  test loss: 3.13
+  accuracy: 0.6476
+current batch size: 1688
+epoch 72 done
+  test loss: 3.14
+  accuracy: 0.6480
+current batch size: 1750
+epoch 73 done
+  test loss: 3.14
+  accuracy: 0.6476
+current batch size: 1815
+epoch 74 done
+  test loss: 3.14
+  accuracy: 0.6477
+current batch size: 1882
+epoch 75 done
+  test loss: 3.15
+  accuracy: 0.6476
+current batch size: 1952
+epoch 76 done
+  test loss: 3.15
+  accuracy: 0.6475
+current batch size: 2024
+epoch 77 done
+  test loss: 3.15
+  accuracy: 0.6476
+current batch size: 2099
+epoch 78 done
+  test loss: 3.15
+  accuracy: 0.6473
+current batch size: 2177
+epoch 79 done
+  test loss: 3.16
+  accuracy: 0.6473
+current batch size: 2258
+epoch 80 done
+  test loss: 3.16
+  accuracy: 0.6477
+current batch size: 2341
+epoch 81 done
+  test loss: 3.16
+  accuracy: 0.6478
+current batch size: 2428
+epoch 82 done
+  test loss: 3.16
+  accuracy: 0.6475
+current batch size: 2518
+epoch 83 done
+  test loss: 3.17
+  accuracy: 0.6475
+current batch size: 2611
+epoch 84 done
+  test loss: 3.17
+  accuracy: 0.6472
+current batch size: 2707
+epoch 85 done
+  test loss: 3.17
+  accuracy: 0.6473
+current batch size: 2808
+epoch 86 done
+  test loss: 3.17
+  accuracy: 0.6475
+current batch size: 2911
+epoch 87 done
+  test loss: 3.17
+  accuracy: 0.6475
+current batch size: 3019
+epoch 88 done
+  test loss: 3.18
+  accuracy: 0.6476
+current batch size: 3131
+epoch 89 done
+  test loss: 3.18
+  accuracy: 0.6475
+current batch size: 3247
+epoch 90 done
+  test loss: 3.18
+  accuracy: 0.6475
+current batch size: 3367
+epoch 91 done
+  test loss: 3.18
+  accuracy: 0.6475
+current batch size: 3492
+epoch 92 done
+  test loss: 3.18
+  accuracy: 0.6473
+current batch size: 3621
+epoch 93 done
+  test loss: 3.18
+  accuracy: 0.6474
+current batch size: 3755
+epoch 94 done
+  test loss: 3.18
+  accuracy: 0.6474
+current batch size: 3894
+epoch 95 done
+  test loss: 3.18
+  accuracy: 0.6473
+current batch size: 4038
+epoch 96 done
+  test loss: 3.19
+  accuracy: 0.6474
+current batch size: 4187
+epoch 97 done
+  test loss: 3.19
+  accuracy: 0.6473
+current batch size: 4342
+epoch 98 done
+  test loss: 3.19
+  accuracy: 0.6472
+current batch size: 4503
+epoch 99 done
+  test loss: 3.19
+  accuracy: 0.6473
+current batch size: 4526
+epoch 100 done
+  test loss: 3.19
+  accuracy: 0.6473
+current batch size: 4526
+epoch 101 done
+  test loss: 3.19
+  accuracy: 0.6474
+current batch size: 4526
+epoch 102 done
+  test loss: 3.19
+  accuracy: 0.6471
+current batch size: 4526
+epoch 103 done
+  test loss: 3.19
+  accuracy: 0.6474
+current batch size: 4526
+epoch 104 done
+  test loss: 3.20
+  accuracy: 0.6471
+current batch size: 4526
+epoch 105 done
+  test loss: 3.20
+  accuracy: 0.6473
+current batch size: 4526
+epoch 106 done
+  test loss: 3.20
+  accuracy: 0.6473
+current batch size: 4526
+epoch 107 done
+  test loss: 3.20
+  accuracy: 0.6472
+current batch size: 4526
+epoch 108 done
+  test loss: 3.20
+  accuracy: 0.6471
+current batch size: 4526
+epoch 109 done
+  test loss: 3.20
+  accuracy: 0.6472
+current batch size: 4526
+epoch 110 done
+  test loss: 3.20
+  accuracy: 0.6472
+current batch size: 4526
+epoch 111 done
+  test loss: 3.20
+  accuracy: 0.6472
+current batch size: 4526
+epoch 112 done
+  test loss: 3.20
+  accuracy: 0.6471
+current batch size: 4526
+epoch 113 done
+  test loss: 3.20
+  accuracy: 0.6471
+current batch size: 4526
+epoch 114 done
+  test loss: 3.21
+  accuracy: 0.6469
+current batch size: 4526
+epoch 115 done
+  test loss: 3.21
+  accuracy: 0.6471
+current batch size: 4526
+epoch 116 done
+  test loss: 3.21
+  accuracy: 0.6471
+current batch size: 4526
+epoch 117 done
+  test loss: 3.21
+  accuracy: 0.6470
+current batch size: 4526
+epoch 118 done
+  test loss: 3.21
+  accuracy: 0.6470
+current batch size: 4526
+epoch 119 done
+  test loss: 3.21
+  accuracy: 0.6471
+current batch size: 4526
+epoch 120 done
+  test loss: 3.21
+  accuracy: 0.6469
+current batch size: 4526
+epoch 121 done
+  test loss: 3.21
+  accuracy: 0.6469
+current batch size: 4526
+epoch 122 done
+  test loss: 3.21
+  accuracy: 0.6471
+current batch size: 4526
+epoch 123 done
+  test loss: 3.22
+  accuracy: 0.6469
+current batch size: 4526
+epoch 124 done
+  test loss: 3.22
+  accuracy: 0.6468
+current batch size: 4526
+epoch 125 done
+  test loss: 3.22
+  accuracy: 0.6469
+current batch size: 4526
+epoch 126 done
+  test loss: 3.22
+  accuracy: 0.6467
+current batch size: 4526
+epoch 127 done
+  test loss: 3.22
+  accuracy: 0.6467
+current batch size: 4526
+epoch 128 done
+  test loss: 3.22
+  accuracy: 0.6466
+current batch size: 4526
+epoch 129 done
+  test loss: 3.22
+  accuracy: 0.6467
+current batch size: 4526
+epoch 130 done
+  test loss: 3.22
+  accuracy: 0.6466
+current batch size: 4526
+epoch 131 done
+  test loss: 3.22
+  accuracy: 0.6467
+current batch size: 4526
+epoch 132 done
+  test loss: 3.22
+  accuracy: 0.6465
+current batch size: 4526
+epoch 133 done
+  test loss: 3.23
+  accuracy: 0.6466
+current batch size: 4526
+epoch 134 done
+  test loss: 3.23
+  accuracy: 0.6466
+current batch size: 4526
+epoch 135 done
+  test loss: 3.23
+  accuracy: 0.6466
+current batch size: 4526
+epoch 136 done
+  test loss: 3.23
+  accuracy: 0.6464
+current batch size: 4526
+epoch 137 done
+  test loss: 3.23
+  accuracy: 0.6466
+current batch size: 4526
+epoch 138 done
+  test loss: 3.23
+  accuracy: 0.6468
+current batch size: 4526
+epoch 139 done
+  test loss: 3.23
+  accuracy: 0.6464
+current batch size: 4526
+epoch 140 done
+  test loss: 3.23
+  accuracy: 0.6465
+current batch size: 4526
+epoch 141 done
+  test loss: 3.23
+  accuracy: 0.6465
+current batch size: 4526
+epoch 142 done
+  test loss: 3.23
+  accuracy: 0.6466
+current batch size: 4526
+epoch 143 done
+  test loss: 3.24
+  accuracy: 0.6465
+current batch size: 4526
+epoch 144 done
+  test loss: 3.24
+  accuracy: 0.6464
+current batch size: 4526
+epoch 145 done
+  test loss: 3.24
+  accuracy: 0.6465
+current batch size: 4526
+epoch 146 done
+  test loss: 3.24
+  accuracy: 0.6465
+current batch size: 4526
+epoch 147 done
+  test loss: 3.24
+  accuracy: 0.6466
+current batch size: 4526
+epoch 148 done
+  test loss: 3.24
+  accuracy: 0.6464
+current batch size: 4526
+epoch 149 done
+  test loss: 3.24
+  accuracy: 0.6463
+current batch size: 4526
+epoch 150 done
+  test loss: 3.24
+  accuracy: 0.6465

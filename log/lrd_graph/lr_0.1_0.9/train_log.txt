@@ -1,0 +1,600 @@
+current learning rate: 0.1
+epoch 1 done
+  test loss: 1.74
+  accuracy: 0.3776
+current learning rate: 0.09000000000000001
+epoch 2 done
+  test loss: 1.48
+  accuracy: 0.4651
+current learning rate: 0.08100000000000002
+epoch 3 done
+  test loss: 1.32
+  accuracy: 0.5297
+current learning rate: 0.07290000000000002
+epoch 4 done
+  test loss: 1.32
+  accuracy: 0.5434
+current learning rate: 0.06561000000000002
+epoch 5 done
+  test loss: 1.23
+  accuracy: 0.5681
+current learning rate: 0.05904900000000002
+epoch 6 done
+  test loss: 1.16
+  accuracy: 0.5969
+current learning rate: 0.05314410000000002
+epoch 7 done
+  test loss: 1.13
+  accuracy: 0.6041
+current learning rate: 0.04782969000000002
+epoch 8 done
+  test loss: 1.10
+  accuracy: 0.6147
+current learning rate: 0.043046721000000024
+epoch 9 done
+  test loss: 1.09
+  accuracy: 0.6227
+current learning rate: 0.03874204890000002
+epoch 10 done
+  test loss: 1.12
+  accuracy: 0.6151
+current learning rate: 0.03486784401000002
+epoch 11 done
+  test loss: 1.08
+  accuracy: 0.6343
+current learning rate: 0.03138105960900001
+epoch 12 done
+  test loss: 1.12
+  accuracy: 0.6280
+current learning rate: 0.028242953648100012
+epoch 13 done
+  test loss: 1.09
+  accuracy: 0.6369
+current learning rate: 0.025418658283290013
+epoch 14 done
+  test loss: 1.11
+  accuracy: 0.6355
+current learning rate: 0.022876792454961013
+epoch 15 done
+  test loss: 1.12
+  accuracy: 0.6419
+current learning rate: 0.020589113209464913
+epoch 16 done
+  test loss: 1.14
+  accuracy: 0.6412
+current learning rate: 0.01853020188851842
+epoch 17 done
+  test loss: 1.18
+  accuracy: 0.6357
+current learning rate: 0.01667718169966658
+epoch 18 done
+  test loss: 1.20
+  accuracy: 0.6360
+current learning rate: 0.015009463529699923
+epoch 19 done
+  test loss: 1.23
+  accuracy: 0.6397
+current learning rate: 0.013508517176729932
+epoch 20 done
+  test loss: 1.27
+  accuracy: 0.6375
+current learning rate: 0.01215766545905694
+epoch 21 done
+  test loss: 1.30
+  accuracy: 0.6369
+current learning rate: 0.010941898913151246
+epoch 22 done
+  test loss: 1.32
+  accuracy: 0.6406
+current learning rate: 0.009847709021836121
+epoch 23 done
+  test loss: 1.34
+  accuracy: 0.6394
+current learning rate: 0.00886293811965251
+epoch 24 done
+  test loss: 1.39
+  accuracy: 0.6342
+current learning rate: 0.007976644307687259
+epoch 25 done
+  test loss: 1.42
+  accuracy: 0.6353
+current learning rate: 0.007178979876918534
+epoch 26 done
+  test loss: 1.44
+  accuracy: 0.6339
+current learning rate: 0.006461081889226681
+epoch 27 done
+  test loss: 1.45
+  accuracy: 0.6374
+current learning rate: 0.005814973700304013
+epoch 28 done
+  test loss: 1.48
+  accuracy: 0.6337
+current learning rate: 0.005233476330273611
+epoch 29 done
+  test loss: 1.50
+  accuracy: 0.6356
+current learning rate: 0.00471012869724625
+epoch 30 done
+  test loss: 1.52
+  accuracy: 0.6343
+current learning rate: 0.004239115827521626
+epoch 31 done
+  test loss: 1.54
+  accuracy: 0.6347
+current learning rate: 0.0038152042447694634
+epoch 32 done
+  test loss: 1.56
+  accuracy: 0.6313
+current learning rate: 0.003433683820292517
+epoch 33 done
+  test loss: 1.58
+  accuracy: 0.6351
+current learning rate: 0.0030903154382632653
+epoch 34 done
+  test loss: 1.59
+  accuracy: 0.6320
+current learning rate: 0.002781283894436939
+epoch 35 done
+  test loss: 1.61
+  accuracy: 0.6332
+current learning rate: 0.002503155504993245
+epoch 36 done
+  test loss: 1.62
+  accuracy: 0.6308
+current learning rate: 0.0022528399544939205
+epoch 37 done
+  test loss: 1.63
+  accuracy: 0.6319
+current learning rate: 0.0020275559590445286
+epoch 38 done
+  test loss: 1.64
+  accuracy: 0.6305
+current learning rate: 0.0018248003631400759
+epoch 39 done
+  test loss: 1.65
+  accuracy: 0.6326
+current learning rate: 0.0016423203268260682
+epoch 40 done
+  test loss: 1.66
+  accuracy: 0.6330
+current learning rate: 0.0014780882941434613
+epoch 41 done
+  test loss: 1.67
+  accuracy: 0.6324
+current learning rate: 0.0013302794647291152
+epoch 42 done
+  test loss: 1.67
+  accuracy: 0.6310
+current learning rate: 0.0011972515182562037
+epoch 43 done
+  test loss: 1.68
+  accuracy: 0.6308
+current learning rate: 0.0010775263664305832
+epoch 44 done
+  test loss: 1.69
+  accuracy: 0.6302
+current learning rate: 0.000969773729787525
+epoch 45 done
+  test loss: 1.69
+  accuracy: 0.6316
+current learning rate: 0.0008727963568087724
+epoch 46 done
+  test loss: 1.70
+  accuracy: 0.6307
+current learning rate: 0.0007855167211278952
+epoch 47 done
+  test loss: 1.70
+  accuracy: 0.6306
+current learning rate: 0.0007069650490151057
+epoch 48 done
+  test loss: 1.71
+  accuracy: 0.6311
+current learning rate: 0.0006362685441135952
+epoch 49 done
+  test loss: 1.71
+  accuracy: 0.6311
+current learning rate: 0.0005726416897022357
+epoch 50 done
+  test loss: 1.71
+  accuracy: 0.6304
+current learning rate: 0.0005153775207320121
+epoch 51 done
+  test loss: 1.71
+  accuracy: 0.6293
+current learning rate: 0.00046383976865881093
+epoch 52 done
+  test loss: 1.72
+  accuracy: 0.6297
+current learning rate: 0.00041745579179292984
+epoch 53 done
+  test loss: 1.72
+  accuracy: 0.6299
+current learning rate: 0.00037571021261363684
+epoch 54 done
+  test loss: 1.72
+  accuracy: 0.6296
+current learning rate: 0.00033813919135227316
+epoch 55 done
+  test loss: 1.72
+  accuracy: 0.6293
+current learning rate: 0.00030432527221704587
+epoch 56 done
+  test loss: 1.72
+  accuracy: 0.6297
+current learning rate: 0.00027389274499534127
+epoch 57 done
+  test loss: 1.73
+  accuracy: 0.6292
+current learning rate: 0.00024650347049580716
+epoch 58 done
+  test loss: 1.73
+  accuracy: 0.6295
+current learning rate: 0.00022185312344622646
+epoch 59 done
+  test loss: 1.73
+  accuracy: 0.6294
+current learning rate: 0.00019966781110160382
+epoch 60 done
+  test loss: 1.73
+  accuracy: 0.6291
+current learning rate: 0.00017970102999144343
+epoch 61 done
+  test loss: 1.73
+  accuracy: 0.6295
+current learning rate: 0.0001617309269922991
+epoch 62 done
+  test loss: 1.73
+  accuracy: 0.6288
+current learning rate: 0.0001455578342930692
+epoch 63 done
+  test loss: 1.73
+  accuracy: 0.6292
+current learning rate: 0.00013100205086376228
+epoch 64 done
+  test loss: 1.73
+  accuracy: 0.6291
+current learning rate: 0.00011790184577738606
+epoch 65 done
+  test loss: 1.73
+  accuracy: 0.6289
+current learning rate: 0.00010611166119964746
+epoch 66 done
+  test loss: 1.73
+  accuracy: 0.6295
+current learning rate: 9.550049507968271e-05
+epoch 67 done
+  test loss: 1.73
+  accuracy: 0.6293
+current learning rate: 8.595044557171444e-05
+epoch 68 done
+  test loss: 1.74
+  accuracy: 0.6292
+current learning rate: 7.7355401014543e-05
+epoch 69 done
+  test loss: 1.74
+  accuracy: 0.6292
+current learning rate: 6.96198609130887e-05
+epoch 70 done
+  test loss: 1.74
+  accuracy: 0.6293
+current learning rate: 6.265787482177983e-05
+epoch 71 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 5.639208733960185e-05
+epoch 72 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 5.075287860564167e-05
+epoch 73 done
+  test loss: 1.74
+  accuracy: 0.6288
+current learning rate: 4.5677590745077506e-05
+epoch 74 done
+  test loss: 1.74
+  accuracy: 0.6292
+current learning rate: 4.1109831670569756e-05
+epoch 75 done
+  test loss: 1.74
+  accuracy: 0.6288
+current learning rate: 3.699884850351278e-05
+epoch 76 done
+  test loss: 1.74
+  accuracy: 0.6288
+current learning rate: 3.3298963653161505e-05
+epoch 77 done
+  test loss: 1.74
+  accuracy: 0.6289
+current learning rate: 2.9969067287845354e-05
+epoch 78 done
+  test loss: 1.74
+  accuracy: 0.6288
+current learning rate: 2.697216055906082e-05
+epoch 79 done
+  test loss: 1.74
+  accuracy: 0.6289
+current learning rate: 2.427494450315474e-05
+epoch 80 done
+  test loss: 1.74
+  accuracy: 0.6289
+current learning rate: 2.1847450052839264e-05
+epoch 81 done
+  test loss: 1.74
+  accuracy: 0.6287
+current learning rate: 1.9662705047555338e-05
+epoch 82 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 1.7696434542799806e-05
+epoch 83 done
+  test loss: 1.74
+  accuracy: 0.6289
+current learning rate: 1.5926791088519825e-05
+epoch 84 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 1.4334111979667843e-05
+epoch 85 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 1.2900700781701059e-05
+epoch 86 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 1.1610630703530954e-05
+epoch 87 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 1.0449567633177859e-05
+epoch 88 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 9.404610869860074e-06
+epoch 89 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 8.464149782874067e-06
+epoch 90 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 7.6177348045866605e-06
+epoch 91 done
+  test loss: 1.74
+  accuracy: 0.6290
+current learning rate: 6.855961324127994e-06
+epoch 92 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 6.170365191715195e-06
+epoch 93 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 5.553328672543675e-06
+epoch 94 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 4.997995805289308e-06
+epoch 95 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 4.498196224760377e-06
+epoch 96 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 4.048376602284339e-06
+epoch 97 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.6435389420559054e-06
+epoch 98 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.2791850478503147e-06
+epoch 99 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.9512665430652833e-06
+epoch 100 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.656139888758755e-06
+epoch 101 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.3905258998828797e-06
+epoch 102 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.151473309894592e-06
+epoch 103 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.9363259789051326e-06
+epoch 104 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.7426933810146194e-06
+epoch 105 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.5684240429131575e-06
+epoch 106 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.4115816386218417e-06
+epoch 107 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.2704234747596574e-06
+epoch 108 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.1433811272836916e-06
+epoch 109 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.0290430145553224e-06
+epoch 110 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 9.261387130997902e-07
+epoch 111 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 8.335248417898112e-07
+epoch 112 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 7.501723576108301e-07
+epoch 113 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 6.751551218497471e-07
+epoch 114 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 6.076396096647724e-07
+epoch 115 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 5.468756486982952e-07
+epoch 116 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 4.921880838284657e-07
+epoch 117 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 4.4296927544561913e-07
+epoch 118 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.9867234790105724e-07
+epoch 119 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.588051131109515e-07
+epoch 120 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.2292460179985633e-07
+epoch 121 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.906321416198707e-07
+epoch 122 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.615689274578837e-07
+epoch 123 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.354120347120953e-07
+epoch 124 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.118708312408858e-07
+epoch 125 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.9068374811679722e-07
+epoch 126 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.716153733051175e-07
+epoch 127 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.5445383597460574e-07
+epoch 128 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.3900845237714517e-07
+epoch 129 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.2510760713943066e-07
+epoch 130 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.125968464254876e-07
+epoch 131 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.0133716178293884e-07
+epoch 132 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 9.120344560464497e-08
+epoch 133 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 8.208310104418047e-08
+epoch 134 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 7.387479093976243e-08
+epoch 135 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 6.648731184578619e-08
+epoch 136 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 5.983858066120757e-08
+epoch 137 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 5.3854722595086814e-08
+epoch 138 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 4.846925033557813e-08
+epoch 139 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 4.362232530202032e-08
+epoch 140 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.9260092771818286e-08
+epoch 141 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.533408349463646e-08
+epoch 142 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 3.180067514517281e-08
+epoch 143 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.862060763065553e-08
+epoch 144 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.5758546867589977e-08
+epoch 145 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.318269218083098e-08
+epoch 146 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 2.086442296274788e-08
+epoch 147 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.8777980666473093e-08
+epoch 148 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.6900182599825784e-08
+epoch 149 done
+  test loss: 1.74
+  accuracy: 0.6291
+current learning rate: 1.5210164339843205e-08
+epoch 150 done
+  test loss: 1.74
+  accuracy: 0.6291
