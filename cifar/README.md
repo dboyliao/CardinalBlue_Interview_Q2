@@ -1,0 +1,1 @@
+- `cs231n`: most of the code in this directory is copied from the famous computer vision course in Stanford. You can find the course content over [here](http://cs231n.stanford.edu)
