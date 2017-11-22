@@ -6,7 +6,7 @@ However, I don't have to use the same neural network architecture as the paper.
 
 The goal is to observe the trade-off between batch size and the learning rate.
 
-So I'll show few plots and friefly summarize what I learned from the experiments.
+So I'll show few plots and briefly summarize what I learned from the experiments.
 
 If you want to see the detail of my code for the results, please refer to `Experiments.ipynb`.
 
@@ -47,20 +47,21 @@ As a result, there are two different setups in my experiment:
 1. Learning Rate Decay (`lrd` for short)
     - Fixed batch size: 128
     - Decreasing learning rate:
-    - initial value: 0.1
-    - decay rate: 0.9
-    - learning rate updated after every epoch
+        - initial value: 0.1
+        - decay rate: 0.9
+        - learning rate updated after every epoch
 2. Increasing Batch Size (`ibs` for short)
     - Increasing batch size:
-    - initial value: 128
-    - maximum batch size: 4526
-        - `(# of training data)/10`
-    - growth rate: 1.037
-        - It will reach maximum batch size at approximately 100th epoch
+        - initial value: 128
+        - maximum batch size: 4526
+            - `(# of training data)/10`
+        - growth rate: 1.037
+            - It will reach maximum batch size at approximately 100th epoch
+    - Fixed learning rate: 0.1
 
 The goal is to obtain similer results (training loss, accuracy...etc) with these two different setups.
 
-The network is trained with simple **SGD** in both cases.
+The network is trained with simple **SGD** and 150 epochs in both cases.
 
 ## Network Architecture
 
